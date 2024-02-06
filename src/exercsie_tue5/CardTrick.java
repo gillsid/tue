@@ -14,8 +14,8 @@ package exercsie_tue5;
  * It then searches the array of cards for the match to the user's card. 
  * To be used as starting code in Exercise
  *
- * @author dancye
- * @author Paul Bonenfant Jan 25, 2022 
+ * @author gillsid
+ * @author Sidhak Gill Feb 7, 2024
  */
 public class CardTrick {
     
